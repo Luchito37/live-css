@@ -9,6 +9,14 @@ header img{
 }
 /*  #img figli di header  */
 
+
+
+main{
+    background-image: url("../img/curriculum.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
 .selection-title { 
 color:rgb(127, 14, 14);
 font-size: 30px;
@@ -32,9 +40,5 @@ footer {
     text-align: center;
     border-top: 6px solid rgb(45, 69, 46);
 }
- main{
-     background-image: url("../img/curriculum.jpeg");
-     background-size: cover;
-     background-attachment: fixed;
- }
+
 
